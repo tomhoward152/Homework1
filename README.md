@@ -11,4 +11,4 @@ This project got me to think about many key components of building a website.
 * the basics can be some of the most important things to remember in development and small mistakes/oversights can lead to very large issues
 
 ## Screenshot
-![Image of webpage](horiseon.png)
+![Final Webpage](horiseon.png)
